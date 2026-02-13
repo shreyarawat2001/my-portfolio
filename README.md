@@ -1,16 +1,33 @@
-# React + Vite
+# 🌐 Shreya Rawat - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern and responsive frontend developer portfolio built using React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 https://your-vercel-link.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- Responsive Design
+- Smooth Animations (Framer Motion)
+- Projects Showcase
+- Resume Download
+- Dark Mode Support
+- Contact Section
 
-## React Compiler
+## 🛠️ Tech Stack
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- JavaScript
+- HTML5 & CSS3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Projects Included
+- Weather Application
+- Snake Game
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/shreyarawat2001/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
