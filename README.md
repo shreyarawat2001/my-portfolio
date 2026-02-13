@@ -3,7 +3,7 @@
 Modern and responsive frontend developer portfolio built using React, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Live Demo
-🔗 https://your-vercel-link.vercel.app
+🔗 my-portfolio-hazel-eta-ut6fpu4th2.vercel.app
 
 ## 📌 Features
 - Responsive Design
